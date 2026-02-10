@@ -1,6 +1,6 @@
 # facehash-swiftui
 
-A SwiftUI port of [facehash](https://www.npmjs.com/package/facehash).
+A SwiftUI port of [facehash](https://www.facehash.dev).
 
 Deterministic avatar faces from any string. Zero dependencies, works with SwiftUI on iOS 16+ and macOS 13+.
 
